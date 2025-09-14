@@ -1,0 +1,12 @@
+{
+    "id": "gif-matcher-plugin",
+    "name": "GIF Matcher Plugin",
+    "description": "Graphics Interchange Format Matcher",
+    "author": "JamsterJava",
+    "website": "https://www.github.com/JamsterJava",
+    "file_types": ["gif"],
+    "hex": [
+        "474946383761",
+        "474946383961"
+    ]
+}

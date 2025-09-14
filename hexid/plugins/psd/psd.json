@@ -1,0 +1,9 @@
+{
+    "id": "photoshop-matcher-plugin",
+    "name": "Photoshop Matcher Plugin",
+    "description": "Photoshop document matcher",
+    "author": "JamsterJava",
+    "website": "https://www.github.com/JamsterJava",
+    "file_types": ["psd"],
+    "hex": ["38425053"]
+}

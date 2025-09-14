@@ -1,0 +1,8 @@
+{
+    "id": "text-file-matcher-plugin",
+    "name": "Text File Matcher Plugin",
+    "description": "Text File Archive Matcher",
+    "author": "JamsterJava",
+    "website": "https://www.github.com/JamsterJava",
+    "file_types": ["txt"]
+}

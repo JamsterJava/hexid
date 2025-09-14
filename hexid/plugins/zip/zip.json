@@ -1,0 +1,11 @@
+{
+    "id": "zip-file-matcher-plugin",
+    "name": "ZIP File Matcher Plugin",
+    "description": "Zip file (docx, xlsx, pptx)",
+    "author": "JamsterJava",
+    "file_types": ["zip"],
+    "website": "https://www.github.com/JamsterJava",
+    "dependencies": [
+        "office-matcher-plugin"
+    ]
+}

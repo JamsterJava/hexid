@@ -1,0 +1,9 @@
+{
+    "id": "xz-archive-matcher-plugin",
+    "name": "XZ Archive Matcher Plugin",
+    "description": "XZ Archive matcher",
+    "author": "JamsterJava",
+    "website": "https://www.github.com/JamsterJava",
+    "file_types": ["xz"],
+    "hex": ["fd377a585a00"]
+}

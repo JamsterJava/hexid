@@ -1,0 +1,11 @@
+{
+    "id": "rar-matcher-plugin",
+    "name": "RAR Matcher Plugin",
+    "description": "RAR archive file matcher",
+    "author": "JamsterJava",
+    "file_types": ["RAR", "rar"],
+    "hex": [
+        "526172211a07"
+    ],
+    "website": "https://www.github.com/JamsterJava"
+}

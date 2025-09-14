@@ -1,0 +1,11 @@
+{
+    "id": "7z-matcher-plugin",
+    "name": "7z Plugin",
+    "description": "7-Zip archive file matcher",
+    "author": "JamsterJava",
+    "file_types": ["7z"],
+    "hex": [
+        "377abcaf271c"
+    ],
+    "website": "https://www.github.com/JamsterJava"
+}

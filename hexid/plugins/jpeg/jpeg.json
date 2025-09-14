@@ -1,0 +1,13 @@
+{
+    "id": "jpeg-matcher-plugin",
+    "name": "JPEG Matcher Plugin",
+    "description": "JPEG Matcher",
+    "author": "JamsterJava",
+    "website": "https://www.github.com/JamsterJava",
+    "file_types": ["jpeg", "jpg"],
+    "hex": [
+        "ffd8ffdb",
+        "ffd8ffee",
+        "ffd8ffe000104a4649460001"
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "id": "tar-archive-matcher-plugin",
+    "name": "Tar Archive Matcher Plugin",
+    "description": "Tar Archive matcher",
+    "author": "JamsterJava",
+    "website": "https://www.github.com/JamsterJava",
+    "file_types": ["tar"],
+    "hex": [
+        "7573746172003030",
+        "7573746172202000"
+    ]
+}

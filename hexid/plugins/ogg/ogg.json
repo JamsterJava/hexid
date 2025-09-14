@@ -1,0 +1,9 @@
+{
+    "id": "ogg-matcher-plugin",
+    "name": "OGG Audio Matcher Plugin",
+    "description": "OGG Audio matcher",
+    "author": "JamsterJava",
+    "website": "https://www.github.com/JamsterJava",
+    "file_types": ["ogg"],
+    "hex": ["4f676753"]
+}

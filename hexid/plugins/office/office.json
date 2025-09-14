@@ -1,0 +1,12 @@
+{
+    "id": "office-matcher-plugin",
+    "name": "Office Matcher Plugin",
+    "description": "Office file (docx, xlsx, pptx) matcher",
+    "author": "JamsterJava",
+    "website": "https://www.github.com/JamsterJava",
+    "file_types": [
+        "docx",
+        "xlsx",
+        "pptx"
+    ]
+}

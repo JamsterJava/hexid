@@ -1,0 +1,13 @@
+{
+    "id": "exif-matcher-plugin",
+    "name": "EXIF Matcher Plugin",
+    "description": "EXIF Matcher",
+    "author": "JamsterJava",
+    "website": "https://www.github.com/JamsterJava",
+    "file_types": ["exif"],
+    "hex": [
+        "ffd8ffdb",
+        "ffd8ffee",
+        "ffd8ffe000104a4649460001"
+    ]
+}

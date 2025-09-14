@@ -1,0 +1,8 @@
+{
+    "id": "png-matcher-plugin",
+    "name": "PNG Matcher Plugin",
+    "description": "PNG file matcher",
+    "author": "JamsterJava",
+    "file_types": ["png"],
+    "website": "https://www.github.com/JamsterJava"
+}

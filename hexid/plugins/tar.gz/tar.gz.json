@@ -1,0 +1,9 @@
+{
+    "id": "tar-gz-archive-matcher-plugin",
+    "name": "Tar.gz Archive Matcher Plugin",
+    "description": "Tar.gz Archive matcher",
+    "author": "JamsterJava",
+    "website": "https://www.github.com/JamsterJava",
+    "file_types": ["tar.gz"],
+    "hex": ["1f8b"]
+}

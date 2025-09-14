@@ -1,0 +1,9 @@
+{
+    "id": "pdf-matcher-plugin",
+    "name": "PDF Matcher Plugin",
+    "description": "PDF file matcher",
+    "author": "JamsterJava",
+    "file_types": ["pdf"],
+    "website": "https://www.github.com/JamsterJava",
+    "hex": ["25504446"]
+}
