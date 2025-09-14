@@ -1,4 +1,4 @@
-![Hexid Logo](./assets/github-banner.svg)
+![Hexid Logo](/hexid/assets/github-banner.svg)
 
 <center>
     <img alt="GitHub Downloads (all assets, all releases)" src="https://img.shields.io/github/downloads/JamsterJava/hexid/total?style=for-the-badge">
@@ -18,8 +18,32 @@
 
 ## Preview
 
-![Hexid Logo](./assets/github-preview.svg)
+![Hexid Logo](/hexid/assets/github-preview.svg)
 
 ## How to use
 
-To use `Hexid`
+To use `Hexid`, run the command `hexid` in your terminal. Below are the options:
+
+- `--dir`, `-d`: Directory to scan in
+- `--file-type`, `-f`: The file type to scan for. Built-in types are listed below.
+- `--recursive`, `-r`: Whether to search recursively. Defaults to true.
+- `--debug`: Prints debug information. Defaults to false.
+- `--show-plugins`: Prints all installed plugins. Defaults to false.
+
+## Built-in file types
+
+- 7z (7-Zip)
+- exif
+- gif
+- jpeg
+- office (`docx`, `pptx` & `xlsx`)
+- ogg
+- pdf
+- png
+- psd
+- rar
+- tar
+- tar.gz
+- txt
+- xz
+- zip
